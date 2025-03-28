@@ -1,4 +1,4 @@
-![aika](https://drive.google.com/file/d/1Aqo4UAzhGr1IyH_V7Kso5sePVc8FUbVF/view?usp=sharing)
+![aika](C:\Users\aijan\Documents\GitHub\Tests-documentation\i (1).webp)
 
 
 О СЕБЕ
