@@ -1,6 +1,3 @@
-![aika](C:\Users\aijan\Documents\GitHub\Tests-documentation\i (1).webp)
-
-
 О СЕБЕ
 
 Я начинающий тестировщик. Имею теоретические знания в области тестирования и практические навыки работы с различными инструментами, такими как Postman, DevTools, VS Code, SoapUI, на уровне простых запросов MySQL (CREATE, SELECT, JOIN) и GITHUB. Основы Python ()
